@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Bootcamp Todo</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_delete">Trinti</string>
+
+    <string name="alert_title">Pridėti naują įrašą</string>
+    <string name="alert_prompt">Ką norite dar nuveikti?</string>
+    <string name="alert_ok">Pridėti</string>
+    <string name="alert_cancel">Atšaukti</string>
+</resources>
